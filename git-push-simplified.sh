@@ -2,6 +2,9 @@
 
 commit=$1
 
+git add .
+
+
 
 
 
